@@ -10,7 +10,7 @@ Implement: in kern/pmap.c
 	-- done -- 
 
 ### Exercise 2: 
-read https://pdos.csail.mit.edu/6.828/2017/readings/i386/s06_04.htm and https://pdos.csail.mit.edu/6.828/2017/readings/i386/s05_02.htm
+!["exercise 2"](https://github.com/walahoo/6.828/blob/master/images/part1%20code.png "Exercise 2")
 
 
 ### Exercise 3
@@ -43,13 +43,9 @@ Implement these functions in kern/pmap.c.
     page_lookup()
     page_remove()
     page_insert()
-	
 
 
-## Part 3
-
-
-
+!["exercise 4"](https://github.com/walahoo/6.828/blob/master/images/part2%20code.png "Exercise 4")
 
 ## Notes: 
 The Memory Management Unit is a computer hardware unit having all memory references passed through itself, primarily performing the translation of virtual memory addresses to physical addresses.  
